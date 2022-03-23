@@ -1,5 +1,5 @@
 # Scrap-Contractorfind
-Permite extraer datos de Contractorfind usando Python
+Permite extraer datos de Contractorfind usando Python (con threads para acelerar la extracción)
 
 ## Información
 Este script permite extraer datos de las urls de contractorfind y las exporta a un Excel.<br>
